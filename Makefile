@@ -6,3 +6,4 @@ rom.sav: empty.sav
 
 clean:
 	rm -f pokegb rom.sav
+$ make
